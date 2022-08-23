@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: 🤖 Machine Learning
-linktitle: 🤖 Machine Learning
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+title: 🤖 Contents
+linktitle: 🤖 Contents
+summary:  Schedule, Blods, and Recordings
 weight: 1
 # icon: book
 # icon_pack: fas
